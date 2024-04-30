@@ -1,0 +1,32 @@
+#counter {
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: Orbitron;
+    text-align: center;
+}
+
+#plus {
+    font-size: 18px;
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    background: greenyellow;
+    border: greenyellow;
+}
+
+#minus {
+    font-size: 18px;
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    background: red;
+    border: red;
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
